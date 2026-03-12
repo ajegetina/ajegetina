@@ -49,6 +49,6 @@ I am currently pursuing advanced studies in **Software Engineering** and **Intel
 ---
 
 ## 📫 Connect with the Architect
-- [LinkedIn](www.linkedin.com/in/ajegetina)
+- [LinkedIn](https://www.linkedin.com/in/ajegetina)
 - [Portfolio](https://ajegetina.dev/)
 - [Email](josephajongbah@gmail.com)
